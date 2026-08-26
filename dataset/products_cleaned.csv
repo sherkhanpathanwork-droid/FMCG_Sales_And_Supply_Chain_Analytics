@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost,selling_price
+P001,Product_001,Snacks,143.99,236.14
+P002,Product_002,Household,352.03,497.59
+P003,Product_003,Beverages,104.49,143.8
+P004,Product_004,Beverages,162.56,232.07
+P005,Product_005,Packaged Food,205.81,273.9
+P006,Product_006,Household,240.73,384.82
+P007,Product_007,Beverages,128.02,185.84
+P008,Product_008,Household,73.81,95.17
+P009,Product_009,Snacks,284.51,480.75
+P010,Product_010,Personal Care,147.67,203.83
+P011,Product_011,Beverages,272.03,401.55
+P012,Product_012,Packaged Food,90.6,153.47
+P013,Product_013,Snacks,229.48,349.85
+P014,Product_014,Household,251.35,306.68
+P015,Product_015,Snacks,47.03,80.6
+P016,Product_016,Beverages,168.06,256.56
+P017,Product_017,Household,82.13,110.95
+P018,Product_018,Personal Care,51.93,64.06
+P019,Product_019,Snacks,445.73,724.94
+P020,Product_020,Beverages,162.0,246.57
+P021,Product_021,Packaged Food,369.2,542.75
+P022,Product_022,Household,133.22,224.65
+P023,Product_023,Snacks,314.64,510.71
+P024,Product_024,Snacks,348.1,431.99
+P025,Product_025,Personal Care,278.15,371.9
+P026,Product_026,Personal Care,225.42,292.84
+P027,Product_027,Packaged Food,200.03,319.32
+P028,Product_028,Packaged Food,173.27,202.75
+P029,Product_029,Beverages,420.05,626.69
+P030,Product_030,Beverages,378.01,607.64
+P031,Product_031,Packaged Food,435.14,729.32
+P032,Product_032,Packaged Food,77.83,105.48
+P033,Product_033,Household,335.62,551.34
+P034,Product_034,Personal Care,423.79,515.49
+P035,Product_035,Beverages,102.02,169.14
+P036,Product_036,Personal Care,53.26,65.32
+P037,Product_037,Personal Care,339.98,472.02
+P038,Product_038,Packaged Food,269.15,438.28
+P039,Product_039,Household,382.78,474.63
+P040,Product_040,Snacks,84.4,108.67
+P041,Product_041,Household,362.99,574.74
+P042,Product_042,Household,110.69,175.11
+P043,Product_043,Personal Care,94.55,145.1
+P044,Product_044,Household,94.81,148.51
+P045,Product_045,Beverages,371.19,547.74
+P046,Product_046,Personal Care,307.71,400.36
+P047,Product_047,Beverages,247.3,335.69
+P048,Product_048,Snacks,177.5,223.47
+P049,Product_049,Personal Care,397.81,674.32
+P050,Product_050,Snacks,191.79,287.69

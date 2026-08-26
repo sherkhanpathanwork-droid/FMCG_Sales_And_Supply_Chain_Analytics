@@ -1,0 +1,301 @@
+customer_id,customer_name,city,customer_segment,customer_since,state
+C0001,Customer_0001,Chennai,Online,2023-03-21,Tamil Nadu
+C0002,Customer_0002,Bengaluru,Retailer,2024-05-25,Karnataka
+C0003,Customer_0003,Hyderabad,Retailer,2025-04-20,Telangana
+C0004,Customer_0004,Chennai,Wholesaler,2022-06-16,Tamil Nadu
+C0005,Customer_0005,Delhi,Online,2022-04-01,Delhi
+C0006,Customer_0006,Pune,Retailer,2023-12-15,West Bengal
+C0007,Customer_0007,Hyderabad,Supermarket,2022-02-08,Telangana
+C0008,Customer_0008,Hyderabad,Supermarket,2025-02-23,Telangana
+C0009,Customer_0009,Chennai,Retailer,2026-01-14,Tamil Nadu
+C0010,Customer_0010,Pune,Supermarket,2022-06-22,Maharashtra
+C0011,Customer_0011,Delhi,Wholesaler,2023-10-15,Delhi
+C0012,Customer_0012,Chennai,Supermarket,2024-01-24,Tamil Nadu
+C0013,Customer_0013,Delhi,Supermarket,2025-05-28,Delhi
+C0014,Customer_0014,Delhi,Wholesaler,2024-12-17,Delhi
+C0015,Customer_0015,Kolkata,Retailer,2023-04-21,West Bengal
+C0016,Customer_0016,Hyderabad,Supermarket,2023-04-01,Telangana
+C0017,Customer_0017,Bengaluru,Retailer,2024-04-08,Karnataka
+C0018,Customer_0018,Kolkata,Retailer,2024-06-13,West Bengal
+C0019,Customer_0019,Kolkata,Retailer,2025-10-16,West Bengal
+C0020,Customer_0020,Delhi,Supermarket,2024-10-21,Delhi
+C0021,Customer_0021,Ahmedabad,Supermarket,2023-01-22,Gujarat
+C0022,Customer_0022,Hyderabad,Retailer,2022-12-14,Telangana
+C0023,Customer_0023,Pune,Wholesaler,2022-07-09,Maharashtra
+C0024,Customer_0024,Kolkata,Retailer,2023-05-20,West Bengal
+C0025,Customer_0025,Bengaluru,Supermarket,2025-04-29,Karnataka
+C0026,Customer_0026,Ahmedabad,Retailer,2025-10-24,Gujarat
+C0027,Customer_0027,Ahmedabad,Supermarket,2025-12-03,Gujarat
+C0028,Customer_0028,Pune,Wholesaler,2024-04-03,Maharashtra
+C0029,Customer_0029,Kolkata,Online,2024-07-17,West Bengal
+C0030,Customer_0030,Bengaluru,Retailer,2024-07-22,Karnataka
+C0031,Customer_0031,Hyderabad,Retailer,2025-02-14,Telangana
+C0032,Customer_0032,Mumbai,Retailer,2022-05-14,Maharashtra
+C0033,Customer_0033,Bengaluru,Online,2022-02-27,Karnataka
+C0034,Customer_0034,Pune,Online,2023-11-16,Maharashtra
+C0035,Customer_0035,Ahmedabad,Retailer,2023-11-03,Gujarat
+C0036,Customer_0036,Hyderabad,Supermarket,2022-06-22,Telangana
+C0037,Customer_0037,Bengaluru,Supermarket,2024-03-25,Karnataka
+C0038,Customer_0038,Mumbai,Supermarket,2025-03-18,Maharashtra
+C0039,Customer_0039,Mumbai,Wholesaler,2022-03-21,Maharashtra
+C0040,Customer_0040,Delhi,Retailer,2024-06-04,Delhi
+C0041,Customer_0041,Delhi,Retailer,2025-05-21,Delhi
+C0042,Customer_0042,Chennai,Online,2022-07-22,Tamil Nadu
+C0043,Customer_0043,Pune,Online,2024-02-03,Maharashtra
+C0044,Customer_0044,Kolkata,Supermarket,2025-06-06,West Bengal
+C0045,Customer_0045,Bengaluru,Retailer,2025-06-04,Karnataka
+C0046,Customer_0046,Bengaluru,Retailer,2026-01-04,Karnataka
+C0047,Customer_0047,Kolkata,Supermarket,2025-11-26,West Bengal
+C0048,Customer_0048,Chennai,Online,2022-02-16,Tamil Nadu
+C0049,Customer_0049,Ahmedabad,Online,2025-06-10,Gujarat
+C0050,Customer_0050,Ahmedabad,Supermarket,2025-08-21,Gujarat
+C0051,Customer_0051,Chennai,Supermarket,2025-03-12,Tamil Nadu
+C0052,Customer_0052,Ahmedabad,Retailer,2025-12-09,Gujarat
+C0053,Customer_0053,Delhi,Retailer,2025-10-28,Delhi
+C0054,Customer_0054,Bengaluru,Online,2025-07-06,Karnataka
+C0055,Customer_0055,Chennai,Supermarket,2023-10-18,Tamil Nadu
+C0056,Customer_0056,Bengaluru,Retailer,2023-04-16,Karnataka
+C0057,Customer_0057,Kolkata,Retailer,2024-08-28,West Bengal
+C0058,Customer_0058,Mumbai,Supermarket,2024-11-01,Maharashtra
+C0059,Customer_0059,Delhi,Retailer,2025-09-15,Delhi
+C0060,Customer_0060,Hyderabad,Retailer,2024-01-06,Telangana
+C0061,Customer_0061,Delhi,Wholesaler,2024-02-23,Delhi
+C0062,Customer_0062,Chennai,Supermarket,2024-08-25,Tamil Nadu
+C0063,Customer_0063,Hyderabad,Supermarket,2022-12-24,Telangana
+C0064,Customer_0064,Mumbai,Retailer,2024-08-29,Maharashtra
+C0065,Customer_0065,Chennai,Supermarket,2025-12-02,Tamil Nadu
+C0066,Customer_0066,Pune,Retailer,2023-10-30,Maharashtra
+C0067,Customer_0067,Bengaluru,Retailer,2023-01-08,Karnataka
+C0068,Customer_0068,Mumbai,Supermarket,2024-10-28,Maharashtra
+C0069,Customer_0069,Bengaluru,Supermarket,2025-02-19,Karnataka
+C0070,Customer_0070,Ahmedabad,Supermarket,2025-10-03,Gujarat
+C0071,Customer_0071,Pune,Supermarket,2023-11-07,Maharashtra
+C0072,Customer_0072,Pune,Supermarket,2022-03-31,Maharashtra
+C0073,Customer_0073,Mumbai,Retailer,2023-11-29,Maharashtra
+C0074,Customer_0074,Pune,Wholesaler,2025-09-01,Maharashtra
+C0075,Customer_0075,Hyderabad,Retailer,2025-04-16,Telangana
+C0076,Customer_0076,Pune,Retailer,2023-06-24,Maharashtra
+C0077,Customer_0077,Bengaluru,Online,2024-01-02,Karnataka
+C0078,Customer_0078,Bengaluru,Wholesaler,2024-05-18,Karnataka
+C0079,Customer_0079,Chennai,Online,2022-02-10,Tamil Nadu
+C0080,Customer_0080,Bengaluru,Supermarket,2024-01-10,Karnataka
+C0081,Customer_0081,Chennai,Supermarket,2023-05-17,Tamil Nadu
+C0082,Customer_0082,Bengaluru,Wholesaler,2024-08-16,Karnataka
+C0083,Customer_0083,Hyderabad,Supermarket,2025-03-14,Telangana
+C0084,Customer_0084,Kolkata,Wholesaler,2025-05-09,West Bengal
+C0085,Customer_0085,Chennai,Retailer,2024-07-17,Tamil Nadu
+C0086,Customer_0086,Delhi,Supermarket,2023-04-06,Delhi
+C0087,Customer_0087,Ahmedabad,Retailer,2024-01-02,Gujarat
+C0088,Customer_0088,Mumbai,Retailer,2024-01-22,Maharashtra
+C0089,Customer_0089,Bengaluru,Supermarket,2024-07-13,Karnataka
+C0090,Customer_0090,Pune,Retailer,2024-06-27,Maharashtra
+C0091,Customer_0091,Kolkata,Online,2025-06-30,West Bengal
+C0092,Customer_0092,Bengaluru,Online,2023-01-25,Karnataka
+C0093,Customer_0093,Pune,Online,2024-06-01,Maharashtra
+C0094,Customer_0094,Ahmedabad,Wholesaler,2022-09-13,Gujarat
+C0095,Customer_0095,Ahmedabad,Retailer,2023-12-10,Gujarat
+C0096,Customer_0096,Ahmedabad,Online,2023-03-26,Gujarat
+C0097,Customer_0097,Pune,Wholesaler,2022-01-10,Maharashtra
+C0098,Customer_0098,Bengaluru,Online,2024-04-03,Karnataka
+C0099,Customer_0099,Ahmedabad,Online,2024-03-08,Gujarat
+C0100,Customer_0100,Hyderabad,Online,2025-06-19,Telangana
+C0101,Customer_0101,Chennai,Retailer,2025-06-28,Tamil Nadu
+C0102,Customer_0102,Pune,Wholesaler,2024-05-26,Maharashtra
+C0103,Customer_0103,Pune,Online,2024-10-25,Maharashtra
+C0104,Customer_0104,Bengaluru,Retailer,2025-02-16,Karnataka
+C0105,Customer_0105,Pune,Retailer,2024-10-12,Maharashtra
+C0106,Customer_0106,Pune,Supermarket,2023-01-09,Maharashtra
+C0107,Customer_0107,Ahmedabad,Online,2024-12-24,Gujarat
+C0108,Customer_0108,Bengaluru,Supermarket,2022-05-26,Karnataka
+C0109,Customer_0109,Ahmedabad,Supermarket,2022-08-12,Gujarat
+C0110,Customer_0110,Chennai,Retailer,2025-06-16,Tamil Nadu
+C0111,Customer_0111,Kolkata,Supermarket,2022-06-26,West Bengal
+C0112,Customer_0112,Chennai,Online,2024-05-02,Tamil Nadu
+C0113,Customer_0113,Kolkata,Retailer,2025-07-29,West Bengal
+C0114,Customer_0114,Ahmedabad,Wholesaler,2022-03-04,Gujarat
+C0115,Customer_0115,Chennai,Online,2025-05-25,Tamil Nadu
+C0116,Customer_0116,Bengaluru,Supermarket,2024-04-06,Karnataka
+C0117,Customer_0117,Mumbai,Supermarket,2024-03-05,Maharashtra
+C0118,Customer_0118,Ahmedabad,Supermarket,2023-11-20,Gujarat
+C0119,Customer_0119,Kolkata,Wholesaler,2026-01-24,West Bengal
+C0120,Customer_0120,Hyderabad,Retailer,2022-04-15,Telangana
+C0121,Customer_0121,Kolkata,Supermarket,2025-01-27,West Bengal
+C0122,Customer_0122,Hyderabad,Supermarket,2023-05-26,Telangana
+C0123,Customer_0123,Pune,Online,2023-01-20,Maharashtra
+C0124,Customer_0124,Chennai,Online,2023-02-09,Tamil Nadu
+C0125,Customer_0125,Hyderabad,Wholesaler,2024-04-02,Telangana
+C0126,Customer_0126,Kolkata,Wholesaler,2023-06-02,West Bengal
+C0127,Customer_0127,Pune,Supermarket,2023-04-21,Maharashtra
+C0128,Customer_0128,Mumbai,Supermarket,2023-12-10,Maharashtra
+C0129,Customer_0129,Bengaluru,Supermarket,2024-02-10,Karnataka
+C0130,Customer_0130,Bengaluru,Supermarket,2025-12-31,Karnataka
+C0131,Customer_0131,Bengaluru,Online,2024-11-12,Karnataka
+C0132,Customer_0132,Hyderabad,Retailer,2024-09-23,Telangana
+C0133,Customer_0133,Mumbai,Wholesaler,2023-11-08,Maharashtra
+C0134,Customer_0134,Hyderabad,Retailer,2023-12-15,Telangana
+C0135,Customer_0135,Chennai,Supermarket,2026-01-21,Tamil Nadu
+C0136,Customer_0136,Hyderabad,Retailer,2022-03-24,Telangana
+C0137,Customer_0137,Mumbai,Wholesaler,2025-03-14,Maharashtra
+C0138,Customer_0138,Mumbai,Wholesaler,2025-01-13,Maharashtra
+C0139,Customer_0139,Chennai,Retailer,2025-01-06,Tamil Nadu
+C0140,Customer_0140,Mumbai,Supermarket,2023-04-02,Maharashtra
+C0141,Customer_0141,Kolkata,Retailer,2022-01-01,West Bengal
+C0142,Customer_0142,Mumbai,Retailer,2022-02-20,Maharashtra
+C0143,Customer_0143,Bengaluru,Supermarket,2023-11-16,Karnataka
+C0144,Customer_0144,Kolkata,Wholesaler,2023-12-18,West Bengal
+C0145,Customer_0145,Kolkata,Retailer,2026-01-09,West Bengal
+C0146,Customer_0146,Chennai,Wholesaler,2023-03-25,Tamil Nadu
+C0147,Customer_0147,Delhi,Supermarket,2024-05-30,Delhi
+C0148,Customer_0148,Delhi,Retailer,2023-05-03,Delhi
+C0149,Customer_0149,Mumbai,Supermarket,2022-02-03,Maharashtra
+C0150,Customer_0150,Kolkata,Retailer,2025-10-03,West Bengal
+C0151,Customer_0151,Delhi,Retailer,2022-04-05,Delhi
+C0152,Customer_0152,Delhi,Wholesaler,2024-12-31,Delhi
+C0153,Customer_0153,Mumbai,Wholesaler,2022-06-03,Maharashtra
+C0154,Customer_0154,Delhi,Supermarket,2022-09-07,Delhi
+C0155,Customer_0155,Hyderabad,Supermarket,2023-11-05,Telangana
+C0156,Customer_0156,Pune,Online,2023-03-14,Maharashtra
+C0157,Customer_0157,Chennai,Wholesaler,2022-04-28,Tamil Nadu
+C0158,Customer_0158,Pune,Retailer,2024-02-10,Maharashtra
+C0159,Customer_0159,Mumbai,Supermarket,2025-08-22,Maharashtra
+C0160,Customer_0160,Bengaluru,Retailer,2022-09-25,Karnataka
+C0161,Customer_0161,Chennai,Wholesaler,2024-12-13,Tamil Nadu
+C0162,Customer_0162,Mumbai,Retailer,2022-08-24,Maharashtra
+C0163,Customer_0163,Kolkata,Retailer,2023-01-24,West Bengal
+C0164,Customer_0164,Bengaluru,Online,2024-09-16,Karnataka
+C0165,Customer_0165,Pune,Supermarket,2024-02-02,Maharashtra
+C0166,Customer_0166,Mumbai,Supermarket,2023-02-05,Maharashtra
+C0167,Customer_0167,Kolkata,Wholesaler,2023-09-16,West Bengal
+C0168,Customer_0168,Chennai,Retailer,2024-02-06,Tamil Nadu
+C0169,Customer_0169,Chennai,Retailer,2025-08-19,Tamil Nadu
+C0170,Customer_0170,Ahmedabad,Retailer,2024-07-07,Gujarat
+C0171,Customer_0171,Kolkata,Wholesaler,2025-05-15,West Bengal
+C0172,Customer_0172,Hyderabad,Supermarket,2025-06-06,Telangana
+C0173,Customer_0173,Delhi,Supermarket,2024-05-02,Delhi
+C0174,Customer_0174,Bengaluru,Retailer,2023-08-01,Karnataka
+C0175,Customer_0175,Kolkata,Online,2022-03-16,West Bengal
+C0176,Customer_0176,Ahmedabad,Supermarket,2023-03-11,Gujarat
+C0177,Customer_0177,Delhi,Supermarket,2022-04-13,Delhi
+C0178,Customer_0178,Delhi,Supermarket,2025-12-16,Delhi
+C0179,Customer_0179,Mumbai,Wholesaler,2024-02-03,Maharashtra
+C0180,Customer_0180,Delhi,Retailer,2024-01-08,Delhi
+C0181,Customer_0181,Hyderabad,Wholesaler,2024-03-16,Telangana
+C0182,Customer_0182,Chennai,Supermarket,2025-08-22,Tamil Nadu
+C0183,Customer_0183,Ahmedabad,Retailer,2022-04-08,Gujarat
+C0184,Customer_0184,Delhi,Retailer,2024-03-08,Delhi
+C0185,Customer_0185,Mumbai,Retailer,2025-09-20,Maharashtra
+C0186,Customer_0186,Hyderabad,Retailer,2024-05-08,Telangana
+C0187,Customer_0187,Pune,Online,2023-03-11,Maharashtra
+C0188,Customer_0188,Chennai,Supermarket,2023-03-23,Tamil Nadu
+C0189,Customer_0189,Chennai,Wholesaler,2025-08-24,Tamil Nadu
+C0190,Customer_0190,Ahmedabad,Retailer,2022-09-06,Gujarat
+C0191,Customer_0191,Chennai,Wholesaler,2022-06-15,Tamil Nadu
+C0192,Customer_0192,Delhi,Wholesaler,2024-09-10,Delhi
+C0193,Customer_0193,Mumbai,Retailer,2025-09-20,Maharashtra
+C0194,Customer_0194,Chennai,Wholesaler,2024-10-16,Tamil Nadu
+C0195,Customer_0195,Chennai,Wholesaler,2023-06-26,Tamil Nadu
+C0196,Customer_0196,Pune,Supermarket,2024-01-29,Maharashtra
+C0197,Customer_0197,Pune,Supermarket,2025-02-03,Maharashtra
+C0198,Customer_0198,Bengaluru,Retailer,2022-03-22,Karnataka
+C0199,Customer_0199,Hyderabad,Wholesaler,2022-05-13,Telangana
+C0200,Customer_0200,Delhi,Supermarket,2024-03-07,Delhi
+C0201,Customer_0201,Chennai,Wholesaler,2024-06-18,Tamil Nadu
+C0202,Customer_0202,Kolkata,Online,2022-05-18,West Bengal
+C0203,Customer_0203,Chennai,Supermarket,2022-07-03,Tamil Nadu
+C0204,Customer_0204,Mumbai,Retailer,2025-11-25,Maharashtra
+C0205,Customer_0205,Bengaluru,Retailer,2025-09-15,Karnataka
+C0206,Customer_0206,Hyderabad,Supermarket,2024-02-24,Telangana
+C0207,Customer_0207,Kolkata,Retailer,2024-09-10,West Bengal
+C0208,Customer_0208,Bengaluru,Supermarket,2022-03-10,Karnataka
+C0209,Customer_0209,Ahmedabad,Online,2023-06-30,Gujarat
+C0210,Customer_0210,Hyderabad,Supermarket,2022-02-22,Telangana
+C0211,Customer_0211,Chennai,Wholesaler,2026-01-13,Tamil Nadu
+C0212,Customer_0212,Chennai,Supermarket,2022-07-24,Tamil Nadu
+C0213,Customer_0213,Hyderabad,Wholesaler,2022-05-06,Telangana
+C0214,Customer_0214,Chennai,Wholesaler,2022-02-12,Tamil Nadu
+C0215,Customer_0215,Delhi,Online,2022-04-21,Delhi
+C0216,Customer_0216,Hyderabad,Wholesaler,2024-01-31,Telangana
+C0217,Customer_0217,Bengaluru,Online,2025-04-21,Karnataka
+C0218,Customer_0218,Hyderabad,Online,2024-04-27,Telangana
+C0219,Customer_0219,Kolkata,Retailer,2022-04-05,West Bengal
+C0220,Customer_0220,Chennai,Retailer,2025-10-29,Tamil Nadu
+C0221,Customer_0221,Delhi,Retailer,2024-06-18,Delhi
+C0222,Customer_0222,Delhi,Retailer,2022-12-26,Delhi
+C0223,Customer_0223,Ahmedabad,Retailer,2024-06-18,Gujarat
+C0224,Customer_0224,Bengaluru,Supermarket,2022-10-08,Karnataka
+C0225,Customer_0225,Pune,Retailer,2025-05-03,Maharashtra
+C0226,Customer_0226,Pune,Retailer,2025-05-03,Maharashtra
+C0227,Customer_0227,Hyderabad,Supermarket,2023-10-29,Telangana
+C0228,Customer_0228,Ahmedabad,Retailer,2022-04-03,Gujarat
+C0229,Customer_0229,Mumbai,Supermarket,2023-11-03,Maharashtra
+C0230,Customer_0230,Hyderabad,Retailer,2022-03-02,Telangana
+C0231,Customer_0231,Ahmedabad,Retailer,2023-09-26,Gujarat
+C0232,Customer_0232,Bengaluru,Supermarket,2024-12-10,Karnataka
+C0233,Customer_0233,Bengaluru,Supermarket,2025-11-27,Karnataka
+C0234,Customer_0234,Bengaluru,Online,2024-10-25,Karnataka
+C0235,Customer_0235,Bengaluru,Supermarket,2026-01-29,Karnataka
+C0236,Customer_0236,Bengaluru,Supermarket,2023-08-27,Karnataka
+C0237,Customer_0237,Ahmedabad,Retailer,2023-11-13,Gujarat
+C0238,Customer_0238,Ahmedabad,Retailer,2023-06-18,Gujarat
+C0239,Customer_0239,Delhi,Supermarket,2025-11-29,Delhi
+C0240,Customer_0240,Kolkata,Supermarket,2024-04-17,West Bengal
+C0241,Customer_0241,Pune,Online,2023-10-07,Maharashtra
+C0242,Customer_0242,Chennai,Wholesaler,2022-08-21,Tamil Nadu
+C0243,Customer_0243,Bengaluru,Wholesaler,2023-06-08,Karnataka
+C0244,Customer_0244,Mumbai,Supermarket,2022-12-12,Maharashtra
+C0245,Customer_0245,Chennai,Retailer,2024-12-05,Tamil Nadu
+C0246,Customer_0246,Ahmedabad,Online,2023-06-30,Gujarat
+C0247,Customer_0247,Mumbai,Online,2025-01-06,Maharashtra
+C0248,Customer_0248,Mumbai,Wholesaler,2025-01-01,Maharashtra
+C0249,Customer_0249,Mumbai,Supermarket,2024-03-04,Maharashtra
+C0250,Customer_0250,Delhi,Supermarket,2022-09-06,Delhi
+C0251,Customer_0251,Ahmedabad,Retailer,2022-02-16,Gujarat
+C0252,Customer_0252,Mumbai,Online,2025-02-18,Maharashtra
+C0253,Customer_0253,Bengaluru,Wholesaler,2022-08-02,Karnataka
+C0254,Customer_0254,Hyderabad,Supermarket,2022-08-27,Telangana
+C0255,Customer_0255,Mumbai,Retailer,2024-12-15,Maharashtra
+C0256,Customer_0256,Delhi,Online,2022-12-16,Delhi
+C0257,Customer_0257,Chennai,Wholesaler,2022-04-17,Tamil Nadu
+C0258,Customer_0258,Ahmedabad,Retailer,2024-04-10,Gujarat
+C0259,Customer_0259,Kolkata,Online,2022-02-17,West Bengal
+C0260,Customer_0260,Delhi,Retailer,2022-12-03,Delhi
+C0261,Customer_0261,Mumbai,Retailer,2024-11-15,Maharashtra
+C0262,Customer_0262,Ahmedabad,Online,2024-03-14,Gujarat
+C0263,Customer_0263,Hyderabad,Online,2025-07-04,Telangana
+C0264,Customer_0264,Mumbai,Supermarket,2022-01-08,Maharashtra
+C0265,Customer_0265,Delhi,Supermarket,2023-09-17,Delhi
+C0266,Customer_0266,Pune,Wholesaler,2025-06-30,Maharashtra
+C0267,Customer_0267,Bengaluru,Retailer,2023-12-20,Karnataka
+C0268,Customer_0268,Kolkata,Retailer,2022-10-30,West Bengal
+C0269,Customer_0269,Chennai,Supermarket,2023-10-01,Tamil Nadu
+C0270,Customer_0270,Delhi,Supermarket,2022-02-25,Delhi
+C0271,Customer_0271,Ahmedabad,Supermarket,2023-12-27,Gujarat
+C0272,Customer_0272,Kolkata,Supermarket,2023-06-10,West Bengal
+C0273,Customer_0273,Kolkata,Retailer,2023-04-19,West Bengal
+C0274,Customer_0274,Kolkata,Wholesaler,2022-01-28,West Bengal
+C0275,Customer_0275,Mumbai,Retailer,2022-03-19,Maharashtra
+C0276,Customer_0276,Bengaluru,Wholesaler,2025-05-24,Karnataka
+C0277,Customer_0277,Mumbai,Wholesaler,2025-11-10,Maharashtra
+C0278,Customer_0278,Ahmedabad,Online,2022-12-31,Gujarat
+C0279,Customer_0279,Mumbai,Wholesaler,2023-10-28,Maharashtra
+C0280,Customer_0280,Pune,Retailer,2023-06-10,Maharashtra
+C0281,Customer_0281,Bengaluru,Retailer,2023-11-30,Karnataka
+C0282,Customer_0282,Bengaluru,Supermarket,2025-08-28,Karnataka
+C0283,Customer_0283,Ahmedabad,Supermarket,2024-06-01,Gujarat
+C0284,Customer_0284,Chennai,Retailer,2024-10-27,Tamil Nadu
+C0285,Customer_0285,Pune,Retailer,2024-10-23,Maharashtra
+C0286,Customer_0286,Delhi,Supermarket,2024-07-07,Delhi
+C0287,Customer_0287,Mumbai,Retailer,2024-01-20,Maharashtra
+C0288,Customer_0288,Hyderabad,Supermarket,2022-12-29,Telangana
+C0289,Customer_0289,Mumbai,Supermarket,2025-07-21,Maharashtra
+C0290,Customer_0290,Kolkata,Retailer,2024-03-16,West Bengal
+C0291,Customer_0291,Mumbai,Retailer,2024-01-09,Maharashtra
+C0292,Customer_0292,Delhi,Online,2024-11-04,Delhi
+C0293,Customer_0293,Mumbai,Wholesaler,2025-04-30,Maharashtra
+C0294,Customer_0294,Pune,Wholesaler,2023-04-30,Maharashtra
+C0295,Customer_0295,Pune,Supermarket,2022-01-28,Maharashtra
+C0296,Customer_0296,Bengaluru,Online,2023-12-15,Karnataka
+C0297,Customer_0297,Ahmedabad,Online,2024-11-28,Gujarat
+C0298,Customer_0298,Chennai,Supermarket,2025-07-20,Tamil Nadu
+C0299,Customer_0299,Hyderabad,Wholesaler,2025-06-08,Telangana
+C0300,Customer_0300,Kolkata,Retailer,2022-03-27,West Bengal
